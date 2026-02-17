@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d8d488c0ac90e3e4c86225a5a3e62608
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bowlSocket: {instanceID: 0}
+  - ballSocket: {instanceID: 0}
+  - ballObject: {fileID: 6120223636642350875, guid: b2e54a1589c177d4d8c6c649eba6d290, type: 3}
+  - memopaper2: {fileID: 7922061468829799188, guid: 9fa44a9514579f44da30cad36cdd5c4b, type: 3}
+  - memopaper3: {fileID: 8954579720367815433, guid: c3b256dab8a42d347b9e0ab1bf993bbb, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
